@@ -30,6 +30,8 @@ NeuroTap is a tap-based cognitive load testing system that uses an ESP32 microco
 - Breadboard
 - USB-C wire
 
+<img width="569" height="219" alt="Screenshot 2025-07-18 at 5 24 03 PM" src="https://github.com/user-attachments/assets/0d59de1f-27f9-4fce-96e3-34a93c69c34a" />
+
 ------------------
 
 ## Planned Improvements
